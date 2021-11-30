@@ -1,0 +1,12 @@
+{
+    "conversations": [
+        {
+            "messages": ["O que é o Flamengo"],
+            "answers": "O FLAMENGO É O MELHOR TIME DE FUTEBOL DO BRASIL"
+        },
+        {
+            "messages": ["Qual o ano de fundação do flamengo", "Quando o flamengo foi fundado?", "Que ano o flamengo foi fundado" ],
+            "answers": "O Clube de Regatas do Flamengo for fundado no dia 17 de novembro de 1895"
+        }
+    ]
+}

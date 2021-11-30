@@ -1,0 +1,32 @@
+{
+    "conversations": [
+        {
+            "messages": ["Qual o mascote do time?", "Qual o mascote do clube?", "Qual o mascote do flamengo"],
+            "answers": "É o Urubuuuu"
+        },
+        {
+            "messages": ["Quantos titulos do campeonato brasileiro tem o flamengo?", "O flamengo tem quantos brasileirões"],
+            "answers": "O mengão foi campeão brasileiro 8 VEZES!!!"
+        },
+        {
+            "messages": ["Qual o maior idolo da historia do clube?"],
+            "answers": "O Zico, sem dúvidas"
+        },
+        {
+            "messages": ["Em que ano o flamengo ganhou a libertadores?"],
+            "answers": "Em 1981 e em 2019"
+        },
+        {
+            "messages": ["Quais são as cores do flamenmgo?"],
+            "answers": "Vermelho e Preto"
+        },
+        {
+            "messages": ["Quantos torcedores tem o flamengo?", "Quantas pessoas torcem para o flamengo?"],
+            "answers": "A Nação Rubro-Negra conta com aproximadamente 40 milhões de torcedores"
+        },
+        {
+            "messages": ["O que é o Vasco?"],
+            "answers": "É um timinho ae"
+        }
+    ]
+}

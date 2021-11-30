@@ -1,0 +1,20 @@
+{
+    "conversations": [
+        {
+            "messages": ["ola", "oi"],
+            "answers": "Olá, sou o FlaRobot. O que gostaria de saber?"
+        }, 
+        {
+            "messages": ["bom dia"],
+            "answers": "Bom dia, sou o FlaRobot. O que gostaria de saber?"
+        }, 
+        {
+            "messages": ["boa tarde"],
+            "answers": "Boa tarde, sou o FlaRobot. O que gostaria de saber?"
+        }, 
+        {
+            "messages": ["boa noite"],
+            "answers": "Boa noite, sou o FlaRobot. O que gostaria de saber?"
+        }
+    ]
+}
